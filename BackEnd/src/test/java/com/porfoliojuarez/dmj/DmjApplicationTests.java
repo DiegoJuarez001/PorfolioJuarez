@@ -1,4 +1,4 @@
-package com.Porfolio.dmj;
+package com.porfoliojuarez.dmj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
